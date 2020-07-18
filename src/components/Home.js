@@ -32,7 +32,7 @@ function Home() {
         {myInfo.firstName} {myInfo.lastName}
       </h1>
       <span className="title">
-        I am
+        I am a
         <ReactTypingEffect
           typingDelay="500"
           text={whoAmI}

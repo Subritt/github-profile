@@ -1,4 +1,4 @@
-export const myGithub = 'aakritsubedi';
+export const myGithub = 'subritt';
 
 export const myInfo = {
   firstName: 'Subritt',
