@@ -1,7 +1,6 @@
 # MyGithub Profile 👋
 your github profile... 
-- demo: [aakritsubedi.netlify.app](
-aakritsubedi.netlify.app)
+- demo: [https://subritt.netlify.app/](https://subritt.netlify.app/)
 
 ## make your copy
 
@@ -29,7 +28,7 @@ aakritsubedi.netlify.app)
 
 
 # 💬 
-##### Hi there, I am AAkrit Subedi 👋
-Email: aakritsubedi9@gmail.com
-website: [aakritsubedi.com.np](aakritsubedi.com.np)
+##### Hi there, I am Subritt Burlakoti 👋
+Email: subrittburlakoti@gmail.com
+website: [subritt.com.np](subritt.com.np)
 Address: Kathmandu, Nepal
