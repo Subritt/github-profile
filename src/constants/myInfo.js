@@ -9,7 +9,7 @@ export const myInfo = {
 
 export const whoAmI = [' Computer Engineer.', ' casual Developer.', ' Data Analyst.']
 
-export const techStack = ['HTML', 'CSS', 'JavaScript', 'Java', 'C', 'C++', 'SQL', 'Git', 'Google Script', 'Google Sheets', 'Google Data']
+export const techStack = ['HTML', 'CSS', 'JavaScript', 'Java', 'C', 'C++', 'SQL', 'Git', 'Google Script', 'Google Sheets', 'Google Data Studio']
 
 export const socialMedia = [
   // { title: 'facebook', link: 'https://www.facebook.com/aakritsubedi9'},
